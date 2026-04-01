@@ -32,7 +32,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: 크림하우스( LG TWINS 리뉴얼 ) 
+        title: 크림하우스
         link: https://www.lgtwins.com/
         sub_title: 백엔드 개발 · 사원 (LG TWINS 팬 서비스 플랫폼)
         caption: 2025.08 ~ 2026.03
