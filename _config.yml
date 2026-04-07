@@ -98,12 +98,6 @@ content:
 
       - layout: left
         title: 실시간 메신저 애플리케이션
-        link: https://github.com/leewoojin12/kakao_program
-        link_text: GitHub
-        additional_links:
-          - title: leewoojin12
-            icon: fab fa-github
-            url: https://github.com/leewoojin12/kakao_program
         caption: 2024.03 ~ 2024.07 (4개월) · 1인 개발
         quote: >
           Firebase 기반 실시간 채팅 앱, 별도 서버 없이 실시간 통신 구현
